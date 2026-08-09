@@ -18,6 +18,7 @@
 | [0654-maximum-binary-tree](https://github.com/Kishan1251/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kishan1251/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0932-beautiful-array](https://github.com/Kishan1251/LeetCode/tree/master/0932-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Kishan1251/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0654-maximum-binary-tree](https://github.com/Kishan1251/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kishan1251/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0932-beautiful-array](https://github.com/Kishan1251/LeetCode/tree/master/0932-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Kishan1251/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Kishan1251/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Kishan1251/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Kishan1251/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Kishan1251/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -117,12 +120,14 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kishan1251/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Kishan1251/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Kishan1251/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kishan1251/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Kishan1251/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Kishan1251/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Kishan1251/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -157,6 +162,7 @@
 | ------- |
 | [0372-super-pow](https://github.com/Kishan1251/LeetCode/tree/master/0372-super-pow) |
 | [0932-beautiful-array](https://github.com/Kishan1251/LeetCode/tree/master/0932-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Kishan1251/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Euler's Totient Function
 |  |
 | ------- |
@@ -185,4 +191,12 @@
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Kishan1251/LeetCode/tree/master/0654-maximum-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Kishan1251/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Kishan1251/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
