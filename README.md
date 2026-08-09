@@ -21,6 +21,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Kishan1251/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Kishan1251/LeetCode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Kishan1251/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3537-fill-a-special-grid](https://github.com/Kishan1251/LeetCode/tree/master/3537-fill-a-special-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/Kishan1251/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Kishan1251/LeetCode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Kishan1251/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3537-fill-a-special-grid](https://github.com/Kishan1251/LeetCode/tree/master/3537-fill-a-special-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Kishan1251/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0427-construct-quad-tree](https://github.com/Kishan1251/LeetCode/tree/master/0427-construct-quad-tree) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Kishan1251/LeetCode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [3537-fill-a-special-grid](https://github.com/Kishan1251/LeetCode/tree/master/3537-fill-a-special-grid) |
 ## Design
 |  |
 | ------- |
