@@ -20,6 +20,7 @@
 | [0932-beautiful-array](https://github.com/Kishan1251/LeetCode/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Kishan1251/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Kishan1251/LeetCode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Kishan1251/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Kishan1251/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/Kishan1251/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Kishan1251/LeetCode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Kishan1251/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Kishan1251/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Kishan1251/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Kishan1251/LeetCode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Kishan1251/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -130,6 +133,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Kishan1251/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Kishan1251/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Kishan1251/LeetCode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Kishan1251/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Quickselect
 |  |
 | ------- |
@@ -138,6 +142,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Kishan1251/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Kishan1251/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Kishan1251/LeetCode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Kishan1251/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Matrix
 |  |
 | ------- |
@@ -187,6 +192,7 @@
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Kishan1251/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Kishan1251/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -219,4 +225,8 @@
 |  |
 | ------- |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Kishan1251/LeetCode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+## Radix Sort
+|  |
+| ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/Kishan1251/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 <!---LeetCode Topics End-->
