@@ -17,6 +17,7 @@
 | [0427-construct-quad-tree](https://github.com/Kishan1251/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0654-maximum-binary-tree](https://github.com/Kishan1251/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kishan1251/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0932-beautiful-array](https://github.com/Kishan1251/LeetCode/tree/master/0932-beautiful-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Kishan1251/LeetCode/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0654-maximum-binary-tree](https://github.com/Kishan1251/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kishan1251/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0932-beautiful-array](https://github.com/Kishan1251/LeetCode/tree/master/0932-beautiful-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +156,7 @@
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/Kishan1251/LeetCode/tree/master/0372-super-pow) |
+| [0932-beautiful-array](https://github.com/Kishan1251/LeetCode/tree/master/0932-beautiful-array) |
 ## Euler's Totient Function
 |  |
 | ------- |
