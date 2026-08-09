@@ -23,6 +23,7 @@
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Kishan1251/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3537-fill-a-special-grid](https://github.com/Kishan1251/LeetCode/tree/master/3537-fill-a-special-grid) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Kishan1251/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/Kishan1251/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Kishan1251/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3537-fill-a-special-grid](https://github.com/Kishan1251/LeetCode/tree/master/3537-fill-a-special-grid) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Kishan1251/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/Kishan1251/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Kishan1251/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Kishan1251/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kishan1251/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [3719-longest-balanced-subarray-i](https://github.com/Kishan1251/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Tree
 |  |
 | ------- |
@@ -166,6 +169,7 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Kishan1251/LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [3719-longest-balanced-subarray-i](https://github.com/Kishan1251/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Sqrt Decomposition
 |  |
 | ------- |
@@ -231,6 +235,7 @@
 | ------- |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Kishan1251/LeetCode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Kishan1251/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/Kishan1251/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Radix Sort
 |  |
 | ------- |
